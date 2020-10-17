@@ -14,7 +14,7 @@ void setup()
 
 {  
 
-pinMode(m1a, );  
+pinMode(m1a,OUTPUT);  
 
 pinMode(m1b, OUTPUT);  
 
